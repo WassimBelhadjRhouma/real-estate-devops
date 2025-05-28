@@ -1,0 +1,4 @@
+# Ignore the images directory   
+# Ignore the cities.json file
+images
+cities.json
